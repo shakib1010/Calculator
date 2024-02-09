@@ -1,3 +1,5 @@
 # Calculator project (TOP)
 
-## live link - https://shakib1010.github.io/calculator/
+## UI will be updated very soon
+
+Live preview link: - https://shakib1010.github.io/calculator-app-top/
